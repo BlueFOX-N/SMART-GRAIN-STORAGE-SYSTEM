@@ -1,0 +1,4 @@
+firebase-admin
+Adafruit_DHT
+RPi.GPIO
+smbus
