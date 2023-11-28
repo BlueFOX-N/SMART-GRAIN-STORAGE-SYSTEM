@@ -1,18 +1,20 @@
-# SMART-GRAIN-STORAGE-SYSTEM-USING-RASPBERRY-PI-WITH-MOBILE-APPLICATION-CONTROLS
+![image](https://github.com/BlueFOX-N/SMART-GRAIN-STORAGE-SYSTEM-USING-RASPBERRY-PI-WITH-MOBILE-APPLICATION-CONTROLS/assets/144304259/59d0c393-13d3-4b35-aabb-d37d03c62d97)# SMART-GRAIN-STORAGE-SYSTEM-USING-RASPBERRY-PI-WITH-MOBILE-APPLICATION-CONTROLS
 
 ## This projects aims at creating a smart grain storage system with temparature,pressure and humidty monitoring system. Along with monitoring user is also able to control the actuators(In this case a motor) using the android app.
 
-![smart grain storage](https://github.com/BlueFOX-N/SMART-GRAIN-STORAGE-SYSTEM-USING-RASPBERRY-PI-WITH-MOBILE-APPLICATION-CONTROLS/assets/144304259/960f81f6-a19d-4c83-969e-27de45ee07d7)
-
+![smart grain storage](![image](https://github.com/BlueFOX-N/SMART-GRAIN-STORAGE-SYSTEM-USING-RASPBERRY-PI-WITH-MOBILE-APPLICATION-CONTROLS/assets/144304259/3b7070c4-fde4-4e74-846f-7645f692935a)
 ## Hardware Components used
 ### *Raspberry pi model 3b+
-![image](https://github.com/BlueFOX-N/SMART-GRAIN-STORAGE-SYSTEM-USING-RASPBERRY-PI-WITH-MOBILE-APPLICATION-CONTROLS/assets/144304259/e8255db4-2c25-4773-bc62-e57837cf9feb)
+![image](![image](https://github.com/BlueFOX-N/SMART-GRAIN-STORAGE-SYSTEM-USING-RASPBERRY-PI-WITH-MOBILE-APPLICATION-CONTROLS/assets/144304259/9c37b08d-77b1-4107-ac88-2b5cd1540d02)
+)
 
 ### *DHT11 Sensor -> To monitor temaprature and humidity
-![image](https://github.com/BlueFOX-N/SMART-GRAIN-STORAGE-SYSTEM-USING-RASPBERRY-PI-WITH-MOBILE-APPLICATION-CONTROLS/assets/144304259/de0dcc0b-790b-473f-8656-4a25867cb838)
+![image](![image](https://github.com/BlueFOX-N/SMART-GRAIN-STORAGE-SYSTEM-USING-RASPBERRY-PI-WITH-MOBILE-APPLICATION-CONTROLS/assets/144304259/fdd5da41-f169-449d-92ab-7abb73e75f35)
+)
 
 ### *BMP 180 Sensor -> To monitor pressure
-![image](https://github.com/BlueFOX-N/SMART-GRAIN-STORAGE-SYSTEM-USING-RASPBERRY-PI-WITH-MOBILE-APPLICATION-CONTROLS/assets/144304259/39986a4f-d944-4e93-9681-c373be510cc7)
+![image](![image](https://github.com/BlueFOX-N/SMART-GRAIN-STORAGE-SYSTEM-USING-RASPBERRY-PI-WITH-MOBILE-APPLICATION-CONTROLS/assets/144304259/83ba115a-0af2-41df-88e9-1f6f8324b214)
+)
 
 
 
