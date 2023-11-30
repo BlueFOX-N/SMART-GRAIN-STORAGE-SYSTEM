@@ -14,5 +14,11 @@
 ### *BMP 180 Sensor -> To monitor pressure
 ![image](https://raw.githubusercontent.com/BlueFOX-N/SMART-GRAIN-STORAGE-SYSTEM-USING-RASPBERRY-PI-WITH-MOBILE-APPLICATION-CONTROLS/main/IMAGE_DIR/BMP180.png)
 
+## Functionalities Avilable
+### 1> Remote monitoring of sensor values
+### 2> Automatic actuator controls
+### 3> Manual actuator control through moble app
+
+
 
 
